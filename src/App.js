@@ -3,8 +3,8 @@ import {useState, useEffect} from "react";
 import axios from "axios";
 
 function App() {
-    const token = 'ba8ec0ca-586b-11ed-b824-262f869eb1a7';
-    const shopID = 3404895;
+    const token = '';
+    const shopID = ;
 
     const apiProvince = 'https://online-gateway.ghn.vn/shiip/public-api/master-data/province';
     const apiDistrict = 'https://online-gateway.ghn.vn/shiip/public-api/master-data/district';
